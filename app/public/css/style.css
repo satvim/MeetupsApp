@@ -9,7 +9,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    color: #C1343F;
+    color: #CD6155;
 }
 
 p {
@@ -47,7 +47,7 @@ header .jumbotron {
 /**  Navbar **/
 
 header .navbar {
-    background: #CF5565;
+    background: #3382FF;
     margin-bottom: 0;
     border-radius: 0;
     font-family: "Roboto", sans-serif;
@@ -147,7 +147,7 @@ header .navbar-inverse .navbar-nav>li>a {
 
 .jumbotron {
     padding: 20px 0;
-    background-color: #FFEB8B;
+    background-color: #FCF3CF;
 }
 
 /**  chat-display **/
